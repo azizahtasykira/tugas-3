@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#FFFFFFFF</color>
+    <color name="pink">#FFB6B9</color>
+    <color name="pink_muda">#FAE3D9</color>
+    <color name="biru_muda">#BBDED6</color>
+    <color name="biru">#8AC6D1</color>
+    <color name="abu_gelap">#333333</color>
+    <color name="pink_mudaa">#FFF1EB</color>
+</resources>

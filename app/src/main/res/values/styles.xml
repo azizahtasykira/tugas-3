@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+    <item name="colorPrimary">@color/pink</item>
+    <item name="colorPrimaryContainer">@color/pink_muda</item>
+    <item name="colorPrimaryDark">@color/biru</item>
+    <item name="colorAccent">@color/biru_muda</item>
+    </style>
+</resources>
